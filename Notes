@@ -1,0 +1,3 @@
+1. Keras is a python library for developing and evaluating deep learning models
+2. Models in Keras are defined as sequence of layers. We create a sequential model and add layers one at a time. 
+3. We use a sigmoid on the output layer to ensure our output is between 0 and 1 and easy to map to either a probability of class 1 or snap to a hard classification of either class with a threshold of 0.5
